@@ -12,4 +12,5 @@ public class BookCounterTest {
 
         assertEquals(1, counter.getCount());
     }
+    //주석을 달아봤습니다..히빈
 }
