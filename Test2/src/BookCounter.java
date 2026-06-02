@@ -14,4 +14,3 @@ public class BookCounter {
     }
 }
 
-// 주석
