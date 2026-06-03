@@ -13,4 +13,4 @@ public class BookCounterTest {
         assertEquals(1, counter.getCount());
     }
 
-}
+} // again
